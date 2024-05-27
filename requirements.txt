@@ -1,0 +1,7 @@
+numpy==1.23.5
+torch --index-url https://download.pytorch.org/whl/cu118
+torchtext==0.15.1
+tqdm==4.64.1
+jupyter
+pyyaml~=6.0
+tokenizers~=0.13.3

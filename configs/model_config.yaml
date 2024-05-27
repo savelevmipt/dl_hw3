@@ -1,0 +1,13 @@
+---
+embedding_size: 100
+hidden_size: 100
+learning_rate: 0.001
+epoch_num: 10000
+try_one_batch: True
+max_seq_len: 200
+max_vocab_size: 4000
+sched_step_size: 100
+sched_gamma: 0.1
+nhead: 5
+num_layers: 5
+dim_feedforward: 1024
